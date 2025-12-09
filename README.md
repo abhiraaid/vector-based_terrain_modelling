@@ -2,7 +2,7 @@
 
 ![](docs/teaser.jpg)
 
-[Website](https://simonperche.github.io/vector-based_terrain_modelling/) | [Paper](https://hal.science/hal-05104719v1/document) | [Video](https://www.youtube.com/watch?v=EOYhb4Z3j_E) 
+[Website](https://arches-team.github.io/vector-based_terrain_modelling/) | [Paper](https://hal.science/hal-05104719v1/document) | [Video](https://www.youtube.com/watch?v=EOYhb4Z3j_E) 
 
 This repository contains the official code and resources for the paper *Vector-based terrain modelling*.
 
