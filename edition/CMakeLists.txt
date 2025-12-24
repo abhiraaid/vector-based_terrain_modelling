@@ -17,7 +17,7 @@ if (NOT GLEW_FOUND)
     message("Adding GLEW manually for Windows...")
     set(PLATFORM x64)
     set(GLEW_INCLUDE_DIRS ${CMAKE_CURRENT_SOURCE_DIR}/include/libs/GL/include)
-    set(GLEW_LIBRARIES ${CMAKE_CURRENT_SOURCE_DIR}/lib/$(PLATFORM)/glew32.lib)
+    set(GLEW_LIBRARIES ${CMAKE_CURRENT_SOURCE_DIR}/lib/${PLATFORM}/glew32.lib)
     set(GLEW_FOUND true)
 endif ()
 
